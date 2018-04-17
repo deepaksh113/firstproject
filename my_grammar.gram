@@ -1,0 +1,8 @@
+#JSGF V1.0;
+ 
+grammar com.sarf.talkingjava.example;
+ 
+public <startExample> = (please | My name is sarf | 
+What is your Name | Good morning |Welcome to chennai| enjoy the|free roaming call|How are you |Open grammar |
+Please to meet you ) *;
+public <endExample> = [thanks | thank you | thank you very much];

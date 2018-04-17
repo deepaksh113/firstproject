@@ -1,0 +1,1 @@
+set classpath=E:\cgjsapi.jar;E:\cgjsapi170.dll;E:\cgjsapi170_x64.dll;.
